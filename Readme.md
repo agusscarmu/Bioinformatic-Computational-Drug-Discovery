@@ -22,7 +22,7 @@ Para acceder a la Base de Datos ChEMBL a través de Python, es necesario instala
 - Recopilar y analizar datos de bioactividad de la Base de Datos ChEMBL relacionados con la enzima aromatasa.
 - Explorar la posibilidad de identificar nuevos compuestos para el tratamiento del cáncer de mama mediante el descubrimiento computacional de medicamentos.
 
-## Bibliografia
+## Bibliografía
 
 - Sood A, Lang DK, Kaur R, Saini B, Arora S. Relevance of Aromatase Inhibitors in Breast Cancer Treatment. Curr Top Med Chem. 2021;21(15):1319-1336. doi: 10.2174/1568026621666210701143445. PMID: 34218783.
     [Enlace](https://pubmed.ncbi.nlm.nih.gov/34218783/)
